@@ -7,9 +7,9 @@ Fell free to Copy and paste them directly in your code and replace content with 
 
 Provided SEO tags and schema
 
-### * Ecommerce Product
-### * Blog or News Article
-### * Job Posting
+* ###  Ecommerce Product
+* ###  Blog or News Article
+* ###  Job Posting
 
 ```
 I have included Branding section in product schema JSON 
