@@ -12,6 +12,7 @@ Provided SEO tags and schema
 ### Job Posting
 
 ```
-I have included Branding section in product schema JSON which could be used for website branding and other branding purpuse
+I have included Branding section in product schema JSON 
+which could be used for website branding and other branding purpuse
 
 ```
